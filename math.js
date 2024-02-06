@@ -36,8 +36,8 @@ console.log(Math.ceil(7.20));
 
 
 // khali random dile dosomik er age kono number thakbe na pore hbe akekbae=r akek ta hbe
-console.log("example")
+console.log("example");
 console.log(Math.random());
 // dosomik er age pore number use krle amrra akekbar akek man pabo ja diye gun dibo setar modhei asbe 
-console.log("example gun")
+console.log("example gun");
 console.log(Math.random()*5);
