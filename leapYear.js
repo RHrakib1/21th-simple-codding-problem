@@ -12,9 +12,6 @@ const result = lipiyer(2024);
 console.log(result);
 
 
-
-
-
 /** 
  * 1.----> j year gulo 100 diye vag jai na abong 4 diye vag jai tahole segula lipyear 
  * 2.-----> j year 400 diye vag jabe take leapyear bole
